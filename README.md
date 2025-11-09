@@ -1,38 +1,75 @@
   <a align="left" href="https://doi.org/{insira o link doi aqui}">
-    <img src="https://img.shields.io/badge/DOI-{INSIRA O DOI}-blue" alt="DOI">
+    <img src="https://img.shields.io/badge/Paper-{INSIRA O DOI DO ARTIGO}-blue" alt="DOI">
   </a>
-  <a href="lamid.ufs.br"><img  align="right" src="https://github.com/user-attachments/assets/915d65fb-281c-42db-b81b-05c785c2473e" alt="LAMID" height="34" /></a> <br/>
+  <a href="https://doi.org/{insira o link doi aqui}">
+    <img align="right" src="https://img.shields.io/badge/Code-{INSIRA O DOI DO ZENODO}-blue" alt="DOI">
+  </a>
   
-# R3PP
-Repository for Reproducible Research in Portuguese Processing
+# R3PP - Repository for Reproducible Research in Portuguese Processing
 
-> Responsável 1 <a href="https://orcid.org/" target="blank"><img align="top" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/2048px-ORCID_iD.svg.png" alt="tuliosg" height="16" width="16" /></a> ;  Responsável 2 <a href="https://orcid.org/" target="blank"><img align="top" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/2048px-ORCID_iD.svg.png" alt="tuliosg" height="16" width="16" /></a>
+> Responsável 1 <a href="https://orcid.org/" target="blank"><img align="top" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/2048px-ORCID_iD.svg.png" alt="-" height="16" width="16" /></a> ;  Responsável 2 <a href="https://orcid.org/" target="blank"><img align="top" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/2048px-ORCID_iD.svg.png" alt="-" height="16" width="16" /></a>
 
-Repositório template para projetos do LAMID.
+Insira aqui uma breve descrição do trabalho.
 
-## Estrutura do repositório
+### Estrutura do repositório
 
-### 📁 src
-Código-fonte / scripts.
+#### 📁 data
+Contém todos os dados do projeto.
 
-### 📁 data
-Dados.
+#### 📁 models
+Modelos treinados. Esta pasta armazena os outputs do processo de treinamento.
 
-### 📁 docs 
-Materiais escritos (textos, relatórios, artigos).
+#### 📁 notebooks
+Notebooks Jupyter.
 
-### 📄 `requirements.txt`
-Dependências para executar os códigos da pasta `src`.
+#### 📁 reports
+Resultados gerados, manuscritos e visualizações.
 
-## Como citar?
-Para citar este trabalho, utilize a referência abaixo, o botão "Cite this repository" (na seção **About** à direita) ou [acesse o artigo completo](https://doi.org/10.48550/).
+#### 📁 src
+Todo o código-fonte do projeto.
+
+#### 📄 `requirements`
+Dependências para executar os códigos.
+
+### Ambiente e execução
+#### Infraestrutura
+A execução dos códigos desenvolvidos ocorreu em uma máquina com as especificações a seguir:
 ```
-Insira a referência BibTex aqui. 
+OS:  
+CPU:  
+RAM:  
+GPU:
+...
 ```
 
-## Agradecimentos
-Gostaríamos de expressar nossa sincera gratidão à infraestrutura e à equipe do Laboratório Multiusuário de Informática e Documentação Linguística ([LAMID](https://github.com/lamid-ufs)) pelo apoio ao longo desta pesquisa.
+Caso outros softwares ou dependências tenham sido utilizadas e não possam ser inseridas no arquivo `requirements`, liste-as abaixo:
+```
+* Software - Versão XYZ
+```
+
+#### Instruções de execução
+Siga estes passos para reproduzir os resultados principais do trabalho:
+1. Primeiro passo;
+2. Segundo passo;
+3. Terceiro passo.
 
 
+### Como citar?
+#### Artigo
+Para citar este trabalho, utilize a referência abaixo ou [acesse o artigo completo](https://doi.org/insira-o-doi/).
 
+```
+Insira a referência (preferencialmente BibTeX) aqui. 
+```
 
+#### Artefatos (Códigos e Dados)
+Para citar especificamente este repositório de artefatos (código/dados), use o DOI gerado pelo Zenodo.
+
+```
+Insira a referência (preferencialmente BibTeX) aqui. 
+```
+
+### Licença
+<!--
+Especifique a licença do seu projeto, se houver. 
+-->
