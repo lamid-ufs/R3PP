@@ -39,6 +39,7 @@ OS:
 CPU:  
 RAM:  
 GPU:
+{Linguagem de programação}: {versão}
 ...
 ```
 
