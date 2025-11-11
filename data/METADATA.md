@@ -1,3 +1,8 @@
+## **Documentação dos metadados**
+Este arquivo serve como a documentação central para os dados utilizados neste projeto.
+
+Preencha cada seção da forma mais completa possível. Se uma pergunta não for relevante para o seu conjunto de dados, sinta-se à vontade para responder com 'N/A' (Não se aplica).
+
 ### 1. Motivação
 **1.1. Qual o propósito da criação deste conjunto de dados?**
 Descreva os objetivos da pesquisa original. Que pergunta ou problema os autores queriam investigar? A coleta foi motivada por alguma lacuna específica na literatura ou necessidade de tarefa?
@@ -15,7 +20,13 @@ Forneça estatísticas descritivas básicas, como número total de documentos, s
 **2.3. Existem rótulos (labels) ou anotações?**
 Descreva os rótulos ou anotações associados a cada exemplo (ex: classes de sentimento, entidades nomeadas, tags de POS). Quem forneceu essas anotações (ex: especialistas, crowdsourcing)?
 
-**2.4. O conjunto de dados contém informações sensíveis?**
+**2.4. Existem divisões de dados recomendadas (ex: treino/validação/teste)?**
+Descreva as divisões padrão, se existirem. Como elas foram criadas (ex: divisão aleatória 80/10/10, por data)?
+
+**2.5. Existem erros, fontes de ruído ou redundâncias conhecidas no conjunto de dados?**
+Descreva quaisquer problemas de qualidade conhecidos, exemplos duplicados, erros de rotulagem ou artefatos do processo de coleta que possam impactar a modelagem.
+
+**2.6. O conjunto de dados contém informações sensíveis?**
 O conjunto de dados contém informações que podem identificar indivíduos (PII - Personally Identifiable Information) ou informações confidenciais (ex: dados de saúde, opiniões políticas)?
 
 ### 3. Coleta de Dados
@@ -47,4 +58,4 @@ Indique se os dados estão publicamente disponíveis e forneça o link (URL ou D
 Descreva a licença (ex: Creative Commons CC-BY 4.0, MIT, etc.). Se o acesso for restrito, explique como seria o processo para solicitá-lo.
 
 **6.3. Quais considerações éticas foram levadas em conta?**
-O artigo original menciona aprovação por um comitê de ética (IRB)? Os participantes assinaram um Termo de Consentimento Livre e Esclarecido (TCLE)? Que medidas foram tomadas para garantir o anonimato e a privacidade?
+O artigo original menciona aprovação por um comitê de ética? Os participantes assinaram um Termo de Consentimento Livre e Esclarecido (TCLE)? Que medidas foram tomadas para garantir o anonimato e a privacidade?
