@@ -22,7 +22,7 @@ Modelos treinados. Esta pasta armazena os outputs do processo de treinamento.
 #### 📁 notebooks
 Notebooks Jupyter.
 
-#### 📁 reports
+#### 📁 docs
 Resultados gerados, manuscritos e visualizações.
 
 #### 📁 src
@@ -71,6 +71,5 @@ Insira a referência (preferencialmente BibTeX) aqui.
 ```
 
 ### Licença
-<!--
 Especifique a licença do seu projeto, se houver. 
--->
+
