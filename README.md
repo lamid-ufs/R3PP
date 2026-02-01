@@ -1,9 +1,13 @@
+<a href="lamid.ufs.br"><img  src="https://github.com/lamid-ufs/ASPBr/blob/6508a5eb2548ba68c98749f7ceb916bb05da0317/src/streamlit/imgs/lamid-logo-full.png?raw=true" alt="LAMID" height="34" /></a>
+<p>
   <a align="left" href="https://doi.org/{insira o link doi aqui}">
     <img src="https://img.shields.io/badge/Paper-{INSIRA O DOI DO ARTIGO}-blue" alt="DOI">
   </a>
   <a href="https://doi.org/{insira o link doi aqui}">
     <img align="right" src="https://img.shields.io/badge/Code-{INSIRA O DOI DO ZENODO}-blue" alt="DOI">
   </a>
+</p>
+  
   
 # R3PP - Repository for Reproducible Research in Portuguese Processing
 
