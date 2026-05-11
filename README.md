@@ -11,7 +11,7 @@
   
 # R3PP - Repository for Reproducible Research in Portuguese Processing
 
-> Responsável 1 <a href="https://orcid.org/" target="blank"><img align="top" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/2048px-ORCID_iD.svg.png" alt="-" height="16" width="16" /></a> ;  Responsável 2 <a href="https://orcid.org/" target="blank"><img align="top" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/2048px-ORCID_iD.svg.png" alt="-" height="16" width="16" /></a>
+> Responsável 1;  Responsável 2.
 
 Insira aqui uma breve descrição do trabalho.
 
